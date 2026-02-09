@@ -38,7 +38,7 @@ Feel free to reach out — I’d love to connect.
 
 - 📧 Email: aviral830351@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/aviral-mishra-7b68b0382/  
-- 🌐 Portfolio: #
+- 🌐 Portfolio: https://avi-portfolio-gc41.vercel.app/
 
 ---
 
